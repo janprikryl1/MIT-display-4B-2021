@@ -1,0 +1,10 @@
+Fork nebo clonovat na svůj účet.
+Clonovat na vs code - open git a zkopírovt adresu a vybrat umístění.
+
+cp .make/Makefile-sdcc Makefile  -- zopíruje Makefile
+make spl - stáhne stm8s.h a jiné knihovny.
+
+
+#include - vloží daný hlavčkový soubor.
+
+Když se zmáčkne tlačítko - uzemní se.
